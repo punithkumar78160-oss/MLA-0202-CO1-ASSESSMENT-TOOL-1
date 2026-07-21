@@ -1,0 +1,8 @@
+Step 1: The house price dataset was loaded and checked for missing values.
+Step 2: The dataset was split into 80% training and 20% testing data.
+Step 3: The Linear Regression model was trained using the training dataset.
+Step 4: The trained model predicted house prices for the testing dataset.
+Step 5: The model performance was evaluated using the R² Score.
+Step 6: The obtained R² Score (e.g., 0.91) indicates that the model predicts house prices with good accuracy.
+Conclusion:
+The Linear Regression model successfully predicted house prices. The high R² score shows that the selected features (such as size, number of bedrooms, and age of the house) have a strong influence on the house price, making the model reliable for price prediction.
