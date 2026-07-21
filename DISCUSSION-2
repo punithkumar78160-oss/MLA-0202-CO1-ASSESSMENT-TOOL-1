@@ -1,8 +1,0 @@
-Step 1: The student performance dataset was loaded and checked for missing values.
-Step 2: The dataset was split into 80% training and 20% testing data.
-Step 3: The Multiple Linear Regression model was trained using the training dataset.
-Step 4: The trained model predicted the final examination marks for the testing dataset.
-Step 5: The model performance was evaluated using the R² Score.
-Step 6: The obtained R² Score (e.g., 0.95) indicates that the model predicts student performance with high accuracy.
-Conclusion:
-The Multiple Linear Regression model successfully predicted students' final marks. The high R² score shows that factors like study hours, attendance, internal marks, and assignment scores are effective in predicting student performance.
